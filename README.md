@@ -32,6 +32,7 @@
   * [세종](#세종)
   * [경기](#경기)
     * [카페 델로](#카페-델로)
+    * [카페드플로르 한경점 (Cafe de Flore)](#카페드플로르-한경점-cafe-de-flore)
   * [강원](#강원)
   * [충북](#충북)
   * [충남](#충남)
@@ -455,6 +456,30 @@
   - 내부에 식물이 많아 공기가 쾌적함
   - 세미나, 스터디가 가능한 공간이 있으나 미리 연락해 예약해야 함
 
+#### [카페드플로르 한경점 (Cafe de Flore)](http://naver.me/GfaMCFzh)
+
+- 위치 : 경기도 안성시 비룡5길 18
+- 규모 : 1층
+- 운영 시간
+  - 평일 : 09:00 ~ 22:00 (코로나로 조정)
+  - 주말 : 09:00 ~ 22:00
+- 혼잡도
+  - 평일 : 여유
+  - 주말 : 여유
+- 가격대 : 4,000 ~ 6,000
+- 책상 및 의자 특징
+  - 원목 책상 / 의자
+  - 8인 바형 테이블
+  - 3인용 원형 테이블
+- 콘센트 유무 : 있음
+- 콘센트 개수 : 전좌석 콘센트 있음. 바형 테이블 1인당 1콘센트
+- 와이파이 유무 : 있음
+- 와이파이 속도 : 쾌적함
+- 기타 특징
+  - 수목원처럼 화분으로 조경이 되어있어 공기가 쾌적함
+  - 한경대 주차장 바로 앞에있어서 무료 주차가 용이함
+  - 세미나, 스터디가 가능한 롱테이블이 있는 공간이 있음. 미리 예약하거나 자리가 비어있으면 양해를 구하고 사용가능
+
 ### 강원
 
 ### 충북
@@ -516,3 +541,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+

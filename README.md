@@ -47,7 +47,7 @@
     * [카페 델로](#카페-델로)
     * [카페드플로르 한경점 (Cafe de Flore)](#카페드플로르-한경점-cafe-de-flore)
     * [오브제커피](#오브제커피)
-    * [The novemver 라운지 하남풍산역](#the-novemver-라운지-하남풍산역)
+    * [The november 라운지 하남풍산역](#the-novemver-라운지-하남풍산역)
   * [강원](#강원)
   * [충북](#충북)
   * [충남](#충남)
@@ -855,7 +855,7 @@
   - 카페 내부에 흡연실이 있음
   - 핸드드립 커피가 유명함
 
-#### [The novemver 라운지 하남풍산역](http://naver.me/xpPaPanS)
+#### [The november 라운지 하남풍산역](http://naver.me/xpPaPanS)
 
 - 위치 : 경기 하남시 미사강변한강로 420
 - 규모 : 1층, 2층, 옥상 테라스(야외)

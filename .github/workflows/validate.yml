@@ -1,0 +1,31 @@
+name: Validate YAML
+
+on:
+  pull_request:
+    branches:
+      - jiny-notes
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v45
+        with:
+          files: '**/*.yaml'
+
+      - name: Validate YAML
+        run: python .github/scripts/validate_cafe_yaml.py ${{ steps.changed-files.outputs.all_changed_files }}

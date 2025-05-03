@@ -25,7 +25,7 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v45
         with:
-          files: '**/*.yaml'
+          files: '**/*.yml'
 
       - name: Validate YAML
-        run: python .github/scripts/validate_cafe_yaml.py ${{ steps.changed-files.outputs.all_changed_files }}
+        run: python .github/scripts/validate_cafe_yml.py ${{ steps.changed-files.outputs.all_changed_files }}
